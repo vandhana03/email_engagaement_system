@@ -99,7 +99,9 @@ DATABASES = {
     )
     
 }
-
+CELERY_BROKER_URL = os.getenv("REDIS_URL")
+CELERY_ACCEPT_CONTENT = ['json']
+CELERY_TASK_SERIALIZER = 'json'
 
 # Password validation
 # https://docs.djangoproject.com/en/6.0/ref/settings/#auth-password-validators
