@@ -24,7 +24,7 @@
 
 ### Clone Repository
 
-git clone YOUR_GITHUB_URL
+git clone https://github.com/vandhana03/email_engagaement_system
 
 ### Create Virtual Environment
 
