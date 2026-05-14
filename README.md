@@ -49,14 +49,23 @@ python manage.py runserver
 ## API Documentation
 
 /swagger/
+https://email-engagaement-system.onrender.com/swagger/#/api/api_accounts_retrieve
 
 ## Deployment
 
 Render
 
+## Deployment Link
+https://email-engagaement-system.onrender.com
+https://email-engagaement-system.onrender.com/admin/
+
 ## Background Tasks
 
 Celery + Redis
+
+## Loom Video Link
+https://www.loom.com/share/17de55dca9234841b04939aae0d63985
+
 
 ## Author
 
